@@ -6,4 +6,4 @@ The material in this course has been built on and uses the work of:
 - [GEOAI](https://github.com/opengeos/geoai)
 - [Justin Braaten](https://github.com/jdbcode)
 
-All material is CC-BY.
+All material is CC-BY under the MIT Licence.
