@@ -4,5 +4,6 @@ This is the repository for course 761 at the University of Auckland: Satellite D
 The material in this course has been built on and uses the work of:
 - [GEEMap](https://github.com/gee-community/geemap)
 - [GEOAI](https://github.com/opengeos/geoai)
+- [Justin Braaten](https://github.com/jdbcode)
 
 All material is CC-BY.
